@@ -2,7 +2,7 @@
 
 利用 init_replit 指令安裝所需 Python 模組
 
-chmoud +x init_replit
+chmod u+x init_replit
 
 ./init_replit
 
