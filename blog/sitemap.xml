@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-04-17T20:53:21-00:00</lastmod>
+<lastmod>2024-04-17T21:10:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-04-17T20:53:21-00:00</lastmod>
+<lastmod>2024-04-17T21:10:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-04-17T20:53:21-00:00</lastmod>
+<lastmod>2024-04-17T21:10:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-04-17T20:53:21-00:00</lastmod>
+<lastmod>2024-04-17T21:10:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -53,6 +53,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./2024-Spring-w3-blog-tutorial.html</loc>
+<lastmod>2024-04-17T21:02:51+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-w4-blog-tutorial.html</loc>
+<lastmod>2024-04-17T21:10:02+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/w1.html</loc>
 <lastmod>2024-04-17T20:44:54+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -62,6 +76,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./category/w2.html</loc>
 <lastmod>2024-04-17T20:53:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w3.html</loc>
+<lastmod>2024-04-17T21:02:51+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w4.html</loc>
+<lastmod>2024-04-17T21:10:02+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -81,8 +109,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/latex.html</loc>
+<lastmod>2024-04-17T21:02:51+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/wei-hu-fen-zu-cang-chu.html</loc>
+<lastmod>2024-04-17T21:10:02+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./author/kmol.html</loc>
-<lastmod>2024-04-17T20:53:00+08:06</lastmod>
+<lastmod>2024-04-17T21:10:02+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
