@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123201-協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-25T07:38:01+08:00</updated><entry><title>w7日誌</title><link href="./2024-w7-week-diary.html" rel="alternate"></link><published>2024-04-04T21:00:00+08:00</published><updated>2024-04-25T07:12:49+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-04-04:./2024-w7-week-diary.html</id><summary type="html">&lt;p&gt;清明連假&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123201-協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T06:59:00+08:00</updated><entry><title>w8日誌</title><link href="./2024-w8-week-diary.html" rel="alternate"></link><published>2024-04-11T21:00:00+08:00</published><updated>2024-06-13T06:50:09+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-04-11:./2024-w8-week-diary.html</id><summary type="html">&lt;p&gt;藉由ChatGPT、Gemini 1.5 Pro 與 Claude 3 等AI協助&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;藉由ChatGPT、Gemini 1.5 Pro 與 Claude 3 等AI協助&lt;/p&gt;
+
+
+&lt;h1&gt;w8&lt;/h1&gt;
+&lt;p&gt;協同資料處理
+請各班各組根據 2a_cd2024_midterm.csv, 以及 2b_cd2024_midterm.csv 中的學號、Github 帳號與組別, 設法在各組員與分組網站中, 列出各學員的 cd2024 倉儲、網站, 以及各班各組的期中報告倉儲與網站連結.&lt;/p&gt;
+&lt;p&gt;1.取出資料放入數列&lt;/p&gt;
+&lt;p&gt;鋼球平衡台 PID 控制與模擬
+請下載 cd2024_ball_balancing_platform_control_ref.7z, 閱讀後請將摘要內容放入個人與分組網誌中.&lt;/p&gt;
+&lt;p&gt;2.對 Gemini 1.5 Pro 提問:&lt;/p&gt;
+&lt;p&gt;以下為利用 PID 控制 CoppeliaSim 鋼球平衡台場景的 ZMQ RemoteAPI Python 程式, 請利用 Python 模組將系統控制過程, 鋼球在平衡台上的 x 方向座標與 y 方向, 利用 matplotlib 畫出來. "這裡附上原本的 PID 控制程式碼"&lt;/p&gt;</content><category term="w8"></category><category term="春假"></category></entry><entry><title>w7日誌</title><link href="./2024-w7-week-diary.html" rel="alternate"></link><published>2024-04-04T21:00:00+08:00</published><updated>2024-06-13T06:42:40+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-04-04:./2024-w7-week-diary.html</id><summary type="html">&lt;p&gt;清明連假&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;清明連假&lt;/p&gt;
 
 
-&lt;h1&gt;w7 清明連假&lt;/h1&gt;</content><category term="w7"></category><category term="春假"></category></entry><entry><title>w6日誌</title><link href="./2024-w6-week-diary.html" rel="alternate"></link><published>2024-03-28T21:00:00+08:00</published><updated>2024-04-25T07:13:00+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-03-28:./2024-w6-week-diary.html</id><summary type="html">&lt;p&gt;自行作業分組工作&lt;/p&gt;
+&lt;h1&gt;w7 清明連假&lt;/h1&gt;</content><category term="w7"></category><category term="春假"></category></entry><entry><title>w6日誌</title><link href="./2024-w6-week-diary.html" rel="alternate"></link><published>2024-03-28T21:00:00+08:00</published><updated>2024-06-13T06:42:40+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-03-28:./2024-w6-week-diary.html</id><summary type="html">&lt;p&gt;自行作業分組工作&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;自行作業分組工作&lt;/p&gt;
 
 
 &lt;h1&gt;w6 分組工作&lt;/h1&gt;
-&lt;p&gt;主要聽從組長安排&lt;/p&gt;</content><category term="w6"></category><category term="分組工作"></category></entry><entry><title>w5日誌</title><link href="./2024-w5-week-diary.html" rel="alternate"></link><published>2024-03-21T21:00:00+08:00</published><updated>2024-04-25T07:13:07+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-03-21:./2024-w5-week-diary.html</id><summary type="html">&lt;p&gt;公假未到課&lt;/p&gt;
+&lt;p&gt;主要聽從組長安排&lt;/p&gt;</content><category term="w6"></category><category term="分組工作"></category></entry><entry><title>w5日誌</title><link href="./2024-w5-week-diary.html" rel="alternate"></link><published>2024-03-21T21:00:00+08:00</published><updated>2024-06-13T06:42:40+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-03-21:./2024-w5-week-diary.html</id><summary type="html">&lt;p&gt;公假未到課&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;公假未到課&lt;/p&gt;
 
 
 &lt;h1&gt;w5 公假&lt;/h1&gt;
-&lt;p&gt;跟學校 &lt;strong&gt;藝術中心&lt;/strong&gt; 前往台中資訊圖書館參加開幕記者會，並擔任開幕司儀，該次展出主題為&lt;strong&gt;&lt;em&gt;前瞻機械主題展&lt;/em&gt;&lt;/strong&gt;。&lt;/p&gt;</content><category term="w5"></category><category term="公假"></category></entry><entry><title>w4日誌</title><link href="./2024-w4-week-diary.html" rel="alternate"></link><published>2024-03-14T21:00:00+08:00</published><updated>2024-04-25T07:13:20+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-03-14:./2024-w4-week-diary.html</id><summary type="html">&lt;p&gt;試用odoo&lt;/p&gt;
+&lt;p&gt;跟學校 &lt;strong&gt;藝術中心&lt;/strong&gt; 前往台中資訊圖書館參加開幕記者會，並擔任開幕司儀，該次展出主題為&lt;strong&gt;&lt;em&gt;前瞻機械主題展&lt;/em&gt;&lt;/strong&gt;。&lt;/p&gt;</content><category term="w5"></category><category term="公假"></category></entry><entry><title>w4日誌</title><link href="./2024-w4-week-diary.html" rel="alternate"></link><published>2024-03-14T21:00:00+08:00</published><updated>2024-06-13T06:42:40+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-03-14:./2024-w4-week-diary.html</id><summary type="html">&lt;p&gt;試用odoo&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;試用odoo&lt;/p&gt;
 
 
 &lt;h1&gt;w4 odoo&lt;/h1&gt;
-&lt;p&gt;已申辦帳號，但還未了解其內容。&lt;/p&gt;</content><category term="w4"></category><category term="odoo"></category></entry><entry><title>w3日誌</title><link href="./2024-w8-week-diary.html" rel="alternate"></link><published>2024-03-07T21:00:00+08:00</published><updated>2024-04-25T07:36:16+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-03-07:./2024-w8-week-diary.html</id><summary type="html">&lt;p&gt;何謂LaTeX&lt;/p&gt;
+&lt;p&gt;已申辦帳號，但還未了解其內容。&lt;/p&gt;</content><category term="w4"></category><category term="odoo"></category></entry><entry><title>w3日誌</title><link href="./2024-w3-week-diary.html" rel="alternate"></link><published>2024-03-07T21:00:00+08:00</published><updated>2024-06-13T06:59:00+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-03-07:./2024-w3-week-diary.html</id><summary type="html">&lt;p&gt;何謂LaTeX&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;何謂LaTeX&lt;/p&gt;
 
 
@@ -26,7 +37,7 @@
 &lt;p&gt;由於不知道何謂LaTeX，因此上網搜尋。&lt;/p&gt;
 &lt;p&gt;是一種基於TEX的排版系統，由美國電腦科學家萊斯利·
 蘭伯特在20世紀80年代初期開發，利用這種格式系統的處理，即使使用者沒有排版和程式設計的知識也可以充分發揮由TEX所提供的強大功能，不必一一親自去設計或校對，能在幾天，甚至幾小時內生成很多具有書籍品質的印刷品生成複雜表格和數學公式，這一點表現得尤為突出。因此它非常適用於生成高印刷品質的科技和數學、物理文件。這個系統同樣適用於生成從簡單的信件到完整書籍的所有其他種類的文件。
-P.S. 擷取至　&lt;strong&gt;維基百科&lt;/strong&gt;&lt;/p&gt;</content><category term="w3"></category><category term="LaTeX"></category></entry><entry><title>w2日誌</title><link href="./2024-w2-week-diary.html" rel="alternate"></link><published>2024-02-29T21:00:00+08:00</published><updated>2024-04-25T07:38:01+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-02-29:./2024-w2-week-diary.html</id><summary type="html">&lt;p&gt;利用 Github Classroom 進行協同分組，並建立分組倉儲&lt;/p&gt;
+P.S. 擷取至　&lt;strong&gt;維基百科&lt;/strong&gt;&lt;/p&gt;</content><category term="w3"></category><category term="LaTeX"></category></entry><entry><title>w2日誌</title><link href="./2024-w2-week-diary.html" rel="alternate"></link><published>2024-02-29T21:00:00+08:00</published><updated>2024-06-13T06:42:40+08:00</updated><author><name>41123201</name></author><id>tag:None,2024-02-29:./2024-w2-week-diary.html</id><summary type="html">&lt;p&gt;利用 Github Classroom 進行協同分組，並建立分組倉儲&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;利用 Github Classroom 進行協同分組，並建立分組倉儲&lt;/p&gt;
 
 
