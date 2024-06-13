@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-06-13T08:23:22-00:00</lastmod>
+<lastmod>2024-06-13T08:55:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-06-13T08:23:22-00:00</lastmod>
+<lastmod>2024-06-13T08:55:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-06-13T08:23:22-00:00</lastmod>
+<lastmod>2024-06-13T08:55:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-06-13T08:23:22-00:00</lastmod>
+<lastmod>2024-06-13T08:55:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,8 +39,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./2024-w13-week-diary.html</loc>
+<lastmod>2024-06-13T08:54:55+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./2024-w12-week-diary.html</loc>
-<lastmod>2024-06-13T08:23:05+08:00</lastmod>
+<lastmod>2024-06-13T08:48:53+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -131,7 +138,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/w12.html</loc>
-<lastmod>2024-06-13T08:23:05+08:06</lastmod>
+<lastmod>2024-06-13T08:48:53+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w13.html</loc>
+<lastmod>2024-06-13T08:54:55+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -193,8 +207,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/text.html</loc>
+<lastmod>2024-06-13T08:54:55+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/nxopen-python.html</loc>
-<lastmod>2024-06-13T08:23:05+08:06</lastmod>
+<lastmod>2024-06-13T08:48:53+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -264,7 +285,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/41123201.html</loc>
-<lastmod>2024-06-13T08:23:05+08:06</lastmod>
+<lastmod>2024-06-13T08:54:55+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
